@@ -1,0 +1,11 @@
+.Votes {
+  flex: 1;
+}
+
+.Votes h2 {
+  font-family: caveat;
+}
+
+.Votes .bar {
+  height: 20px;
+}

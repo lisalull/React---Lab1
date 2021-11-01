@@ -1,0 +1,15 @@
+.AdDesigner {
+  flex: 1;
+}
+
+.AdDesigner h2 {
+  font-family: "Caveat", cursive;
+}
+
+.AdDesigner button:disabled {
+  background-color: gray;
+}
+
+.AdDesigner .button-container {
+  display: flex;
+}

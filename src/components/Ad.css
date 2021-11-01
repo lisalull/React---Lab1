@@ -1,0 +1,16 @@
+.Ad .box {
+  box-shadow: 0px 0px 6px gray;
+  width: fit-content;
+  border: 2px solid black;
+  padding: 5px;
+  height: fit-content;
+}
+
+.Ad .flavor {
+  font-family: "Caveat", cursive;
+}
+
+.Ad .dark {
+  background-color: black;
+  color: white;
+}
